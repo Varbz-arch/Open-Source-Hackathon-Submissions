@@ -3,33 +3,73 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+ARCHISHA BORAH
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Varbz-arch
 
 **Team Name:**  
-<!-- Write your team name -->
+TYPSICHVARZ
 
 **College/University:**  
-<!-- Write your college/university name -->
+UNIVERSITY OF PETROLEUM AND ENERGY STUDIES
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Open Source DSA Tracker
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+Open Source DSA Tracker is a web application designed to help students consistently track their Data Structures and Algorithms (DSA) journey. Users can record solved problems from platforms like LeetCode, GeeksforGeeks, and Codeforces, monitor daily solving streaks, visualize progress through dashboards, and organize problems by difficulty and topic.
+
+The project aims to solve the common challenge of maintaining consistency while preparing for coding interviews. By making the project open source, developers can contribute new features, improve the user experience, and integrate additional coding platforms, making it a collaborative learning platform for the community.
+
+Current Features:
+- User Authentication
+- Add, Edit, and Delete solved problems
+- Daily streak tracker
+- Dashboard with analytics
+- Difficulty-wise statistics
+- Topic categorization
+- Search and filter problems
+- Responsive UI
+
+Future Enhancements:
+- LeetCode API Integration
+- GitHub OAuth Login
+- AI-based problem recommendations
+- Community Leaderboard
+- 100 Days of DSA Challenge Tracker
+- Export progress report
+---
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Frontend:
+- React.js
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+Authentication:
+- JWT
+
+Deployment:
+- Vercel
+- Render
+- MongoDB Atlas
+
+---
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
-
+(https://github.com/Varbz-arch/open-source-dsa-tracker.git)
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
 
@@ -53,7 +93,7 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
 - [ ] I have followed Memori Labs on LinkedIn  
